@@ -1,1 +1,1 @@
-# OnTheWay2Interview
+The content of this repository is coming soon. This content would help you to crack the Java interview as a back-end developer. I have been taking and attending the interviews for more than 50 times. I'm pretty much sure, my experience would definitely assist you to boost up your confidence and get you a dream job. So keep watching for this space.
